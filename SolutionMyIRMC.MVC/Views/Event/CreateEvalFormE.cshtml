@@ -1,0 +1,91 @@
+﻿@model SolutionMyIRMC.Domain.EvaluationEvent
+
+@{
+                /**/
+
+                ViewBag.Title = "CreateEvalFormE";
+}
+
+<h2>Créer un formulaire pour évaluer un évenement</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" align="center">
+        <h4>Evaluation de l'évenement : </h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("nom de l'évenement", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nomEvent, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nomEvent, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("nombre des participants", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nbPartcipant, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nbPartcipant, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Valeur globale par rapport au prix payé", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.valeurGlobale, new[]{
+new SelectListItem(){ Text = "oui", Value = "oui"},
+new SelectListItem(){ Text = "non", Value = "non"}
+}, "choisir une réponse", new { style = "width:180px" })
+                @Html.ValidationMessageFor(model => model.valeurGlobale, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Service global était", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.serviceGlobal, new[]{
+new SelectListItem(){ Text = "oui", Value = "oui"},
+new SelectListItem(){ Text = "non", Value = "non"}
+}, "choisir une réponse", new { style = "width:180px" })
+                @Html.ValidationMessageFor(model => model.serviceGlobal, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Installation globale était", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.instalaltionGlobale, new[]{
+new SelectListItem(){ Text = "oui", Value = "oui"},
+new SelectListItem(){ Text = "non", Value = "non"}
+}, "choisir une réponse", new { style = "width:180px" })
+                @Html.ValidationMessageFor(model => model.instalaltionGlobale, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Nos recommandations", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.recommandation, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.recommandation, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Ajouter" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+
+
+
+    }
+
+    
+<div>
+    @Html.ActionLink("Retour à la liste", "AfficheEvalE")
+</div>

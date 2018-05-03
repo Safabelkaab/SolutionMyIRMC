@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SolutionMyIRMC.Domain.EvaluationTender>
+
+@{
+    ViewBag.Title = "AfficheEvalT";
+}
+
+<h2>Affichage de l'evaluation sur l'appel d'offre</h2>
+
+<p>
+    @Html.ActionLink("Créer une nouvelle evaluation", "CreateEvalFormT")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Label("nombre d'offres reçues", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("trouvez-vous les appels d'offre proposés intéressants?", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("vous trouverez le prix de l'appel d'offre raisonnable?", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("note sur la compréhension du contexte", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("vos recommandations ?", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("les actions", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nbTenderReceived)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.interetTender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.prixRaisonable)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.note)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.recommandation)
+        </td>
+        
+        <td>
+            <a href="/Tender/DeleteEval?IdEvalTender=@item.IdEvalTender">Supprimer</a> |
+            @Html.ActionLink("Details", "Details", new { id=item.IdEvalTender })
+        </td>
+    </tr>
+}
+
+</table>

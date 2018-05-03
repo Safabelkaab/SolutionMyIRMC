@@ -1,0 +1,64 @@
+﻿@model SolutionMyIRMC.Domain.EvaluationTender
+
+@{
+    ViewBag.Title = "DeleteEval";
+}
+
+<h2>suppression du formulaire</h2>
+
+<h3>vous etes sûre de supprimer votre contenu?</h3>
+<div>
+    <h4>Evaluation de l'appel d'offre</h4>
+    <hr />
+    <dl class="table">
+        <dt>
+            @Html.Label("nombre d'offres reçues", htmlAttributes: new { @class = "LabelCSSTop" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nbTenderReceived)
+        </dd>
+
+        <dt>
+            @Html.Label("trouvez-vous les appels d'offre proposés intéressants?", htmlAttributes: new { @class = "LabelCSSTop" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.interetTender)
+        </dd>
+
+        <dt>
+            @Html.Label("vous trouverez le prix de l'appel d'offre raisonnable?", htmlAttributes: new { @class = "LabelCSSTop" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prixRaisonable)
+        </dd>
+
+        <dt>
+            @Html.Label("note sur la compréhension du contexte", htmlAttributes: new { @class = "LabelCSSTop" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.note)
+        </dd>
+
+        <dt>
+            @Html.Label("vos recommandations ?", htmlAttributes: new { @class = "LabelCSSTop" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.recommandation)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Supprimer" class="btn btn-default" /> |
+            @Html.ActionLink("Retour à la liste", "AfficheEvalT")
+        </div>
+    }
+</div>

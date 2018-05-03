@@ -1,0 +1,41 @@
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Data.dll.config
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Data.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.csprojResolveAssemblyReference.cache
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.Migrations.mig1.resources
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.csproj.GenerateResource.Cache
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Data.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Data.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\SolutionMyIRMC.Domain.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.csprojResolveAssemblyReference.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.Migrations.mig1.resources
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.csproj.GenerateResource.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.csproj.CoreCompileInputs.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.csproj.CopyComplete
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Data\obj\Debug\SolutionMyIRMC.Data.pdb

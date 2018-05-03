@@ -1,0 +1,21 @@
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\SolutionMyIRMC.Domain.dll.config
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\SolutionMyIRMC.Domain.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.csproj.CopyComplete
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Domain\obj\Debug\SolutionMyIRMC.Domain.pdb

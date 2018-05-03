@@ -1,0 +1,47 @@
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Service.dll.config
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Service.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Service.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.ServicePattern.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Data.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.ServicePattern.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.csprojResolveAssemblyReference.cache
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Service.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Service.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Service.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Domain.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.ServicePattern.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Data.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Data.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Domain.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.Domain.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.ServicePattern.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\SolutionMyIRMC.ServicePattern.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.csprojResolveAssemblyReference.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.csproj.CoreCompileInputs.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.csproj.CopyComplete
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.Service\obj\Debug\SolutionMyIRMC.Service.pdb

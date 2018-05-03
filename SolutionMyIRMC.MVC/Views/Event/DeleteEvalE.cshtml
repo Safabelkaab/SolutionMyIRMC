@@ -1,0 +1,80 @@
+﻿@model SolutionMyIRMC.Domain.EvaluationEvent
+
+@{
+    ViewBag.Title = "DeleteEvalE";
+}
+
+<h2>Supprimer l'évaluation</h2>
+
+<h3>Vous êtes sûre de supprimer l'évaluation?</h3>
+<div>
+    <h4>Evaluation de l'évenement</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nomEvent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomEvent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nbPartcipant)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nbPartcipant)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.valeurGlobale)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.valeurGlobale)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.serviceGlobal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.serviceGlobal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.instalaltionGlobale)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.instalaltionGlobale)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.recommandation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.recommandation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idEventF)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idEventF)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Supprimer" class="btn btn-default" /> |
+            @Html.ActionLink("Retour à la liste", "AfficheEvalE")
+        </div>
+    }
+</div>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable< SolutionMyIRMC.Domain.Tender>
+
+@{
+    ViewBag.Title = "AfficheTender";
+    Layout = "~/Views/Shared/_usernavLayout.cshtml";
+}
+
+<h2>Liste des appels d'offre</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.Label("le titre de l'appel d'offre", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("description", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("contact", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("source de l'information", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+        <th>
+            @Html.Label("les actions", htmlAttributes: new { @class = "LabelCSSTop" })
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.titleTender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sourceInformation)
+            </td>
+
+            <td>
+                <a href="/Tender/EditTender?idTender=@item.idTender">MODIFIER</a>|
+                @Html.ActionLink("DETAILS", "Details", new { /* id=item.PrimaryKey */ }) |
+                <a href="/Tender/DeleteTender?idTender=@item.idTender">SUPPRIMER</a> |
+                <a href="/Tender/CreateEvalFormT?idTender=@item.idTender">EVALUER</a>
+            </td>
+        </tr>
+    }
+
+</table>

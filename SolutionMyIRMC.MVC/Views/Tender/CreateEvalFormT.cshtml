@@ -1,0 +1,74 @@
+﻿@model SolutionMyIRMC.Domain.EvaluationTender
+
+@{
+    ViewBag.Title = "CreateEvalFormT";
+}
+
+<h2>Creation d'un formulaire d'appel d'offre</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Evaluation d'un appel d'offre</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("nombre d'offres reçues", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nbTenderReceived, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nbTenderReceived, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("trouvez-vous les appels d'offre proposés intéressants?", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.interetTender, new[]{
+    new SelectListItem(){ Text = "oui", Value = "oui"},
+    new SelectListItem(){ Text = "non", Value = "non"}
+    }, "choisir une réponse", new { style = "width:180px" })
+                @Html.ValidationMessageFor(model => model.interetTender, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("vous trouverez le prix de l'appel d'offre raisonnable?", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.prixRaisonable, new[]{
+new SelectListItem(){ Text = "oui", Value = "oui"},
+new SelectListItem(){ Text = "non", Value = "non"}
+}, "choisir une réponse", new { style = "width:180px" })
+                @Html.ValidationMessageFor(model => model.prixRaisonable, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("note sur la compréhension du contexte", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.note, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.note, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("vos recommandations ?", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.recommandation, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.recommandation, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Ajouter" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Retour à la liste", "AfficheEvalT")
+</div>

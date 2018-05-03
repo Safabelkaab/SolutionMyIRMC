@@ -1,0 +1,199 @@
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\ApplicationInsights.config
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\csc.exe
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\vbc.exe
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.MVC.dll.config
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.MVC.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.MVC.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Fabric.Plugin.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Owin.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Data.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Domain.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Service.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.ServicePattern.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Helpers.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Mvc.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Optimization.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Razor.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\WebGrease.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Data.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Domain.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.ServicePattern.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Service.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Helpers.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Mvc.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Optimization.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Razor.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.dll
+C:\Users\Yasmine\Documents\Visual Studio 2015\Projects\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\ApplicationInsights.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\csc.exe
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\vbc.exe
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.MVC.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.MVC.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.MVC.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Antlr3.Runtime.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.Entity.EF6.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Fabric.Plugin.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Newtonsoft.Json.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Owin.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Data.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Domain.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Service.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.ServicePattern.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Helpers.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Mvc.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Optimization.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Razor.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\WebGrease.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Data.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Data.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Domain.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Domain.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.ServicePattern.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.ServicePattern.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Service.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\SolutionMyIRMC.Service.dll.config
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\MySql.Data.Entity.EF6.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Helpers.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Mvc.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Optimization.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.Razor.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Newtonsoft.Json.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.csprojResolveAssemblyReference.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.csproj.CoreCompileInputs.cache
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.csproj.CopyComplete
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\obj\Debug\SolutionMyIRMC.MVC.pdb
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Twilio.AspNet.Common.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Twilio.AspNet.Mvc.dll
+C:\Users\safa_\Desktop\esprit\4eme GL\2eme semestre\pi\dot net\SolutionMyIRMC\SolutionMyIRMC.MVC\bin\Twilio.dll

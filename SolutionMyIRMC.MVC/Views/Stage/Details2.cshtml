@@ -1,0 +1,82 @@
+﻿@model SolutionMyIRMC.MVC.Models.StageViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>StageViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dd>
+            @Html.DisplayNameFor(model => model.Competence)
+        </dd>
+
+        <dt>
+            @Html.DisplayFor(model => model.Competence)
+        </dt>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.DateDebut)
+        </dd>
+
+        <dt>
+            @Html.DisplayFor(model => model.DateDebut)
+        </dt>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.DateFin)
+        </dd>
+
+        <dt>
+            @Html.DisplayFor(model => model.DateFin)
+        </dt>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.lieu)
+        </dd>
+
+        <dt>
+            @Html.DisplayFor(model => model.lieu)
+        </dt>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.Titre)
+        </dd>
+
+        <dt>
+            @Html.DisplayFor(model => model.Titre)
+        </dt>
+
+        <dd>
+            @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ })
+        </dd>
+
+        <dt>
+            @Html.ActionLink("Back to List", "test")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salaire)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lieu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lieu)
+        </dd>
+
+        
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

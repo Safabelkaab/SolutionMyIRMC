@@ -1,0 +1,131 @@
+﻿@model IEnumerable<SolutionMyIRMC.MVC.Models.StageViewModel>
+
+@{
+    ViewBag.Title = "Index";
+   
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{<table>
+        <tr>
+            <td>
+                <div>
+                    Search by titre: @Html.TextBox("searchTitle")
+                </div>
+            </td>
+            <td> <input type="submit" value="Search" id="submit" /> </td>
+        </tr>
+    </table> }
+<p>
+    @Html.ActionLink("Create New", "Createstage")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Titre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Competence)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateDebut)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateFin)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.Salaire)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lieu)
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Competence)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateDebut)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateFin)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Salaire)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lieu)
+        </td>
+        <td>
+
+        </td>
+        <td>
+            
+            @Html.ActionLink("View CV", "Edit", new { id = item.IdStage }) |
+            @Html.ActionLink("Details", "Details", new { id = item.IdStage }) |
+            
+             @Html.ActionLink("Delete", "Delete", new {  id=item.IdStage  })
+        </td>
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+</table>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

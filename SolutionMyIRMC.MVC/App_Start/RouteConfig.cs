@@ -15,15 +15,20 @@ namespace SolutionMyIRMC.MVC
             routes.MapMvcAttributeRoutes();
             routes.MapRoute(
                 name: "Default",
-                url: "{controller}/{action}",
+                url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+            
             routes.MapRoute(
                 name: "Document",
                 url: "{controller}/{action}/{num}"
 
             );
+            routes.MapRoute(
+                name: "Stage",
+                url: "{controller}/{action}/{id}"
 
+            );
         }
     }
 }

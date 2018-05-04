@@ -106,135 +106,13 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h4>
-                            <strong>Ajouter un évenement</strong>
+                            <strong>Ajouter un Stage</strong>
                         </h4>
 
 
-                        <form id="details_form" enctype="multipart/form-data">
-
-                            <label class="col-sm-2 control-label">Titre</label>
-                            <div class="form-group">
-                                <inputText value="#{eventBean.event.titreEvent}" type="text"
-                                           name="name" class="form-control" id="name"
-                                           placeholder="titre" data-rule="minlen:4"
-                                           data-msg="Please enter at least 4 chars" required="true"
-                                           requiredMessage="Le champ titre de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-                            <label class="col-sm-2 control-label">Catégorie</label>
-                            <div class="form-group">
-                                <h:selectOneMenu value="#{eventBean.event.category}" converter="cc">
-                                    <f:selectItem itemLabel="choisir une..." itemValue="" />
-                                    <f:selectItems value="#{eventBean.categories}" var="cat"
-                                                   itemValue="#{cat}" itemLabel="#{cat.name}" />
-                                </h:selectOneMenu>
-                            </div>
-
-
-
-
-                            <label class="col-sm-2 control-label">Lieux </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.lieuxEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Lieux de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-
-                            <label class="col-sm-2 control-label">Contact </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.contactEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Contact de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-
-                            </div>
-                            <label class="col-sm-2 control-label">Description </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.descriptionEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Description de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-                            <label class="col-sm-2 control-label">Numéro de téléphone </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.telEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Numéro de téléphone de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-
-                            <label class="col-sm-2 control-label">Date </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.dateEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 8 chars of subject">
-                                    <f:convertDateTime pattern="MM/dd/yyyy" />
-                                </h:inputText>
-                            </div>
-
-                            <div class="form-group">
-                                <s:growl id="messages" showDetail="true" />
-                                <s:fileUpload value="#{eventBean.file}" mode="simple" skinSimple="true" />
-                            </div>
-
-
-                            <div class="text-center">
-
-                                <h:commandButton type="submit" class="btn btn-theme"
-                                                 action="#{eventBean.CreateEvent()}" value="Ajouter">
-                                </h:commandButton>
-                            </div>
-                            <label class="col-sm-2 control-label">Lieux </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.lieuxEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Lieux de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-                            <label class="col-sm-2 control-label">Lieux </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.lieuxEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Lieux de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-                            <label class="col-sm-2 control-label">Lieux </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.lieuxEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Lieux de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-                            <label class="col-sm-2 control-label">Lieux </label>
-                            <div class="form-group">
-                                <h:inputText value="#{eventBean.event.lieuxEvent}" type="text"
-                                             class="form-control"
-                                             placeholder="Subject" data-rule="minlen:4"
-                                             data-msg="Please enter at least 4 chars" required="true"
-                                             requiredMessage="Le champ Lieux de l'évenement est obligatoire." />
-                                <h:message for="adresse" styleClass="alert-danger" />
-                            </div>
-                            <h:outputScript>
-                                $("#register\\:DateEvent").mask("99/99/9999");
-                            </h:outputScript>
-
-                        </form>
+                        <div>
+                            @RenderBody()
+                        </div>
 
 
 
@@ -243,9 +121,7 @@
                 </div>
             </div>
         </section>
-        <div>
-            @RenderBody()
-        </div>
+        
         <footer>
             <div class="container">
                 <div class="row">

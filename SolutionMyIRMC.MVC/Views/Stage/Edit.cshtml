@@ -1,0 +1,58 @@
+﻿@model IEnumerable<SolutionMyIRMC.MVC.Models.DocumentViewModel>
+
+@{
+    ViewBag.Title = "Edit";
+    
+}
+
+<h2>Documents</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.titre)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.nom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombreindex)
+        </th>
+
+
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.titre)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreindex)
+            </td>
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+
+            <td>
+                @Html.ActionLink("View CV", "readPDF", new {  path=item.path  }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+</table>

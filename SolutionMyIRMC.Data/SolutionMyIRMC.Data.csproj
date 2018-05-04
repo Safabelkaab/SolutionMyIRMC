@@ -74,13 +74,17 @@
       <DependentUpon>201804301512524_mig1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\competition.cs" />
     <Compile Include="Models\IRMCContext.cs" />
     <Compile Include="Models\Mapping\commentEventMap.cs" />
+    <Compile Include="Models\Mapping\competitionMap.cs" />
     <Compile Include="Models\Mapping\evaluationEventsMap.cs" />
     <Compile Include="Models\Mapping\evaluationTendersMap.cs" />
     <Compile Include="Models\Mapping\eventMap.cs" />
+    <Compile Include="Models\Mapping\researchcenterMap.cs" />
     <Compile Include="Models\Mapping\tendersMap.cs" />
     <Compile Include="Models\Mapping\topicEventMap.cs" />
+    <Compile Include="Models\researchcenter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

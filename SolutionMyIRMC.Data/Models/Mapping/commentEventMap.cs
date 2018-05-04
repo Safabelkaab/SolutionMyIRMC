@@ -24,7 +24,9 @@ namespace SolutionMyIRMC.Data.Models.Mapping
             this.ToTable("CommentEvent", "SolutionMyIRMC.MVC");
             this.Property(t => t.idComment).HasColumnName("idComment");
             this.Property(t => t.textComment).HasColumnName("textComment");
+            this.Property(t => t.idUserF).HasColumnName("isliked");
             this.Property(t => t.idTopicF).HasColumnName("idTopic_fk");
+            this.Property(t => t.idUserF).HasColumnName("idUser_fk");
         }
 
     }

@@ -23,7 +23,7 @@ namespace SolutionMyIRMC.Data.Models.Mapping
             this.Property(t => t.idTopic).HasColumnName("idTopic");
             this.Property(t => t.textTopic).HasColumnName("textTopic");
             this.Property(t => t.idEventF).HasColumnName("idEvent_fk");
-
+         
         }
     }
 }
